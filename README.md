@@ -19,9 +19,16 @@ Email Me 👉 ✉️ **hsubha871@gmail.com** for collaboration, projects, or jus
 </div>
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=SUBHA-HAZRA&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SUBHA-HAZRA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHA-HAZRA&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=SUBHA-HAZRA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=SUBHA-HAZRA&theme=tokyonight&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHA-HAZRA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SUBHA-HAZRA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
