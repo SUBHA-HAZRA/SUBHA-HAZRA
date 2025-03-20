@@ -18,21 +18,13 @@ Email Me 👉 ✉️ **hsubha871@gmail.com** for collaboration, projects, or jus
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats :
+# 📊 GitHub Stats:
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=SUBHA-HAZRA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SUBHA-HAZRA&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHA-HAZRA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  
+![](https://github-readme-stats.vercel.app/api?username=SUBHA-HAZRA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SUBHA-HAZRA&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHA-HAZRA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=SUBHA-HAZRA&theme=algolia&no-frame=false&no-bg=true&margin-w=4)<br/>
-
-</div>
-
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
