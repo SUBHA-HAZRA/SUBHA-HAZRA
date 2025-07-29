@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Subha Hazra
 Email Me 👉 ✉️ **subhahazra676@gmail.com** for collaboration, projects, or just to connect. 😊😊
 
-- 🌱 **I’m currently learning :** Full-Stack Development
-- 👯 **I’m looking to collaborate on :** Web development projects
-- 💬 **Ask me about :** Web Development, Databases, Desktop Applications
-- 📫 **How to reach me :** subhahazra676@gmail.com
-- ⚡ **Fun fact :** Coding frustrates me, but I can’t stop! 
+- 🌱 I’m currently learning Full-Stack Web Development
+- 🤝 I’m open to collaborate on cool Web Development Projects
+- 💬 You can ask me about anything related to Web Development, Databases, or Desktop Applications
+- 📫 Mail me at subhahazra676@gmail.com
+- 😅 **Fun fact :** Coding frustrates me, but I can’t stop! 
 ## 🌐 Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/UserID957452110960676936) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subha.hazra.9440) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhahazra2436) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subha-hazra-9b5488299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhahazra676@gmail.com)
 
