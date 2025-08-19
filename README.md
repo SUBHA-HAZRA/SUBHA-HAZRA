@@ -18,32 +18,3 @@ Email Me 👉 ✉️ **subhahazra676@gmail.com** for collaboration, projects, or
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-<div align="center">
-<div>
-  
-![](https://github-readme-stats.vercel.app/api?username=SUBHA-HAZRA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-</div>
-<div>
-  
-![](https://nirzak-streak-stats.vercel.app/?user=SUBHA-HAZRA&theme=dark&hide_border=false)
-</div>
-<div>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHA-HAZRA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=SUBHA-HAZRA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=SUBHA-HAZRA&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
